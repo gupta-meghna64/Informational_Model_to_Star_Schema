@@ -1,0 +1,3 @@
+Information,Computed From,Category,Contains,History Time Unit,Duration
+Time Spent for Consultation,"Time of registration, Time of consultation","Department:name|Unit:name|Patient:rn,name,age,gender","(Unit,Department)",Daily,5 years
+Distribution of Personel,"Number of patients, Doctors,Nurses,Record Clerks",Department:name|Unit:name,,Daily,5 years

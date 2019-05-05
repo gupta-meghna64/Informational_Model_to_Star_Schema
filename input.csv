@@ -1,0 +1,2 @@
+Information,Computed From,Category,Contains,History Time Unit,Duration
+Sales,"Amount, Quantity","Customer:cid,caddress,cphone|Product:pid,pdescription|Branch:bid,bcity,baddress|Zone:zno,zaddress","(Zone,Branch);(Product,Zone)",Daily,3 years
